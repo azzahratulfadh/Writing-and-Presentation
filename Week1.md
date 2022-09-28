@@ -167,11 +167,12 @@ Print ("Result", output)
     2. let
     3. const
 * Contoh :
-    
+    ```
     let nama : "aya";
     let umur : 20:
     console.log(nama);//output : aya
     console.log(umur);//output : 20
+    ```
 
 ***Conditional***
 * Conditonal(persyaratan)
