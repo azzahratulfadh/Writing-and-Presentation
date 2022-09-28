@@ -1,12 +1,14 @@
 **Writing and Presentation Test Week 1**
 
 **Day 1 : Unix Command Line dan Git & GitHub Dasar**
+
 A. Unix Command Line
 * Unix Command Line merupakan shell yang berbasis teks
 * Shell adalah program yang menerima perintah, kemudian meneruskan perintah tersebut ke system untuk dieksekusi
-* cara mengakses CLI dan menggunakan terminal dengan menggunakan commandprompt(CMD)
-* file system structure merupakan sebuah system mengatur bagaimana
+* cara mengakses CLI dan menggunakan terminal dengan menggunakan commandprompt(CMD), powershell
 * data disimpan didalam sebuah system
+
+Perintah - Perintah yang sering digunakan
 * pwd adalah command untuk melihat current working directory
 * ls adalah command untuk melihat isi sebuah directory 
 * cd adalah command untuk berpindah directory
