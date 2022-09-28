@@ -135,7 +135,7 @@ B. Git & GitHub Dasar
 * Data Struktur digunakan untuk mengelola data Sedangkan Algoritma yang akan menyelesaikan suatu permasalahan menggunakan data tersebut
 * Pseudocode adalah menuliskan algoritma dengan umumnya bahasa inggris sebelum diimplementasikan ke bahasa pemograman tertentu
 * Manfaat algoritma yaitu membantu untuk menyelesaikan masalah secara runtut
-* Algoritma sederhana "Saat proses mengambil minum"
+* Algoritma sederhana "Saat proses minum"
     + pertama pergi menambil gelas
     + lalu pergi ketempat galon
     + kemudian mengambil air
@@ -167,6 +167,7 @@ Print ("Result", output)
     2. let
     3. const
 * Contoh :
+    
     let nama : "aya";
     let umur : 20:
     console.log(nama);//output : aya
