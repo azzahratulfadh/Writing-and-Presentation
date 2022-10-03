@@ -133,7 +133,16 @@ console.log(itemQuery.closest(".list"));
 console.log(itemQuery.previousElementSiblingc);
 console.log(itemQuery.nextElementSibling);
 ```
-
+* Memanipulasi Content :
+    + Deklarasi variabel header sebagai wadah untuk menyimpan tag HTML
+ ```
+  let header = document.getElementById("header");  
+ ```
+* Memanipulasi Content pada Header content dari pemilik element dengan id header dengan text.Content
+ ```
+  document.getElementById("header").textContent = "Teks Heading" 
+ ```
+    
 **DOM Event**
 * Events adalah kejadian/kegiatan/interaksi yang terjadi pada website
 * 3 cara memberikan event
