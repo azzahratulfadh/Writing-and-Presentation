@@ -33,6 +33,7 @@
 * Cara membuat component
     + Menggunakan function
     + Mengguakan class
+    
  ![image](https://user-images.githubusercontent.com/82355691/198987720-f22b782b-fefd-463e-a083-56fabca6247f.png)
 
 * Buatlah file didalam components dengan huruf besar misalnya : Home.jsx
@@ -118,7 +119,8 @@ function App(){
 export default App;
 ```
 * Hasilnya ketika di run ouput
-![image](https://user-images.githubusercontent.com/82355691/198987810-f11ea209-ee6d-48f1-ad95-ea3ed915ebc1.png)
+![image](https://user-images.githubusercontent.com/82355691/198987971-09dfec40-813d-486a-854f-dfde5097beff.png)
+
 
 
 **State dan Props**
