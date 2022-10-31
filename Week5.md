@@ -33,6 +33,8 @@
 * Cara membuat component
     + Menggunakan function
     + Mengguakan class
+ ![image](https://user-images.githubusercontent.com/82355691/198987720-f22b782b-fefd-463e-a083-56fabca6247f.png)
+
 * Buatlah file didalam components dengan huruf besar misalnya : Home.jsx
 * JSX adalah sebuah sintax. JSX perlu di compile untuk menjadi Javascript
 * Setiap JSX hanya bisa memiliki 1 parent element
@@ -116,6 +118,8 @@ function App(){
 export default App;
 ```
 * Hasilnya ketika di run ouput
+![image](https://user-images.githubusercontent.com/82355691/198987810-f11ea209-ee6d-48f1-ad95-ea3ed915ebc1.png)
+
 
 **State dan Props**
 * State adalah sebuah object untuk nyimpan data di react yang akan di render ulang ketika data mengalami perubahan
