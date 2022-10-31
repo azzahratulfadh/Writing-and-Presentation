@@ -235,3 +235,8 @@ function Makan() {
 
 export default Makan;
 ```
+
+**Hooks**
+* Hooks adalah fitur yang baru dikenalkan react js pada tahun 2018
+* Hooks digunakan untuk memudahkan penggunaan functional components agar bisa menggunakan state dan lifecycle lainnya
+* Hooks yang sering digunakan adalah useState dan useEffect
