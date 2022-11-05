@@ -1,4 +1,4 @@
-***Writing Week 6***
+***Writing Week 7***
 
 ***Week 2 FrontEnd Bootcamp***
 ****
